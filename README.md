@@ -1,5 +1,9 @@
-#링크는 아래
+>링크:
 https://erc-nard.github.io/watermelon-game/
+
+>
+>>
+아래는 원본 설명
 
 # 合成大西瓜
 
